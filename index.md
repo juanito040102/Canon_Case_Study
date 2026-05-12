@@ -1,6 +1,8 @@
 ---
-layout: mapworld
+title: "Canon Case Study - Digital Analytics"
+layout: default
 ---
+
 
 # Canon Case Study -  Digital Analytics
 ## By Juan Zumarán
