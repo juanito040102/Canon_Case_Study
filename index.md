@@ -58,10 +58,15 @@ In this Sankey Chart, it summarizes how the threats are distributed in terms of 
 ### Recommendations
 
 One of our goals was to Strengthen non-branded content search visibility, By improved keywords related to non-brand searches, which in the case of my analysis:
+
 Immediate Fixes: fixing metadata and targeting keywords with low difficulty (Quick Wins, Keywords with a lower keyowrd difficutly and CPC, such as: "" )
+
 Medium Priority: creating and promoting top of the funnel content on their site and social media
+
 Long Term Keyword Strategy:
+
 1: High Search Volume Opportunities (such as: "vlog camera" or "camera")
+
 2: High Search Volume Threats (such as: "best beginners camera" or "vlogging camera")
 
 #### What I Learned & What Surprised Me
